@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MIB",
+    "\\MIB\\e2e",
+    "\\MIB\\e2e\\src",
+    "\\MIB\\src",
+    "\\MIB\\src\\app",
+    "\\MIB\\src\\app\\heroes",
+    "\\MIB\\src\\assets",
+    "\\MIB\\src\\environments"
+  ],
+  "SelectedNode": "\\MIB\\src\\app\\app.component.ts",
+  "PreviewInSolutionExplorer": false
+}
