@@ -6,10 +6,11 @@
     "\\MIB\\e2e\\src",
     "\\MIB\\src",
     "\\MIB\\src\\app",
+    "\\MIB\\src\\app\\hero-detail",
     "\\MIB\\src\\app\\heroes",
     "\\MIB\\src\\assets",
     "\\MIB\\src\\environments"
   ],
-  "SelectedNode": "\\MIB\\src\\app\\app.component.ts",
+  "SelectedNode": "\\MIB\\src\\app\\hero.service.ts",
   "PreviewInSolutionExplorer": false
 }
